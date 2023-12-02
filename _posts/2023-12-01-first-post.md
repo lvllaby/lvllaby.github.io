@@ -10,32 +10,30 @@ author: Silvan De La Rosa
 ---
 
 {: .box-success}
-Ceci est un post de demonstration pour vous montrer comment écrire des posts avec du markdown. Je vous encourage vivement à [prendre 5 minutes pour apprendre comment écrire en markdown](https://markdowntutorial.com/) - Cela va vous apprendre comment transformer du texte normal en gras/italique/tableaux/etc.<br/>Je vous encourage également to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Ceci est un post de demonstration pour vous montrer comment écrire des posts avec du markdown. Je vous encourage vivement à [prendre 5 minutes pour apprendre comment écrire en markdown](https://markdowntutorial.com/) - Cela va vous apprendre comment transformer du texte normal en gras/italique/tableaux/etc.<br/> Je vous encourage également à regarder [cette vidéo](https://www.youtube.com/channel/UC5DNocSirFo2o0bonM9FrPw) pour apprendre quelque chose d'important.
 
-**Here is some bold text**
+**Ceci est du texte en gras**
 
-## Here is a secondary heading
+## Ceci est un sous-titre
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Ceci est un tableau:
 
-Here's a table:
-
-| Number | Next number | Previous number |
+| Nombre | Nombre suivant | Nombre précédent |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Cinq | Six | Quatre |
+| Dix | Onze | Neuf |
+| Sept | Huit | Six |
+| Deux | Trois | Un |
 
-How about a yummy crepe?
+Que dirais-tu d'une délicieuse crêpe ?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crêpe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
-It can also be centered!
+Elle peut aussi être centrée!
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Ceci est du code:
 
 ~~~
 var foo = function(x) {
@@ -44,7 +42,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+Et voici le même code mais avec de joli couleur:
 
 ```javascript
 var foo = function(x) {
@@ -53,7 +51,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+Et ceci est encore le même code mais avec le numéro des lignes:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -62,30 +60,20 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## Boîtes
+Tu peux ajouter des boîtes de notifications, d'alertes et d'erreurs comme ceci:
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Ceci est une boites de notifications.
 
-### Warning
+### Alerte
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Alerte:** Ceci est une boîte d'alerte.
 
-### Error
+### Erreur
 
 {: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+**Erreur:** Ceci est une boîte d'erreur.
