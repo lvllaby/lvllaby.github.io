@@ -60,20 +60,20 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boîtes
-Tu peux ajouter des boîtes de notifications, d'alertes et d'erreurs comme ceci:
+## Cases
+Tu peux ajouter des cases de notifications, d'alertes et d'erreurs comme ceci:
 
 ### Notification
 
 {: .box-note}
-**Note:** Ceci est une boites de notifications.
+**Note:** Ceci est une case de notifications.
 
 ### Alerte
 
 {: .box-warning}
-**Alerte:** Ceci est une boîte d'alerte.
+**Alerte:** Ceci est une case d'alerte.
 
 ### Erreur
 
 {: .box-error}
-**Erreur:** Ceci est une boîte d'erreur.
+**Erreur:** Ceci est une case d'erreur.
