@@ -4,7 +4,7 @@ title: Premier post
 subtitle: Il y beaucoup à voir!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [tuto]
 comments: true
 author: Silvan De La Rosa
 ---
