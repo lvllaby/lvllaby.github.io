@@ -49,37 +49,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-# email: "someone@example.com"
-# facebook: deanattali
   github: lvllaby_
   twitter: lvllabytrash
-# patreon: DeanAttali
-  youtube: channel/UC5DNocSirFo2o0bonM9FrPw
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-   instagram: lvllaby.sh
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-   bluesky: lvllaby.tech
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+  instagram: lvllaby.sh
+  bluesky: lvllaby.tech
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
