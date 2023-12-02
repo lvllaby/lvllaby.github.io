@@ -49,11 +49,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  github: lvllaby_
+  rss: true
+  github: lvllaby
   twitter: lvllabytrash
   instagram: lvllaby.sh
   bluesky: lvllaby.tech
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Ce site est une preuve virtuelle que je suis incroyable
 
 ###########################
 # --- General options --- #
