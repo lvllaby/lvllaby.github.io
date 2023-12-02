@@ -13,7 +13,7 @@
 title: Mon site
 
 # Your name to show in the footer
-author: Silvan De La rosa
+author: Silvan De La Rosa
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,7 +23,7 @@ navbar-links:
   A propos de moi: "aboutme"
   Ressources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Apprenez markdown: "https://www.markdowntutorial.com/"
+    - Apprenez le markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
