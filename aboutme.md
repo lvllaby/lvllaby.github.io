@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de moi
+subtitle: Mes qualités
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mon nom est Silvan De La Rosa. J'ai les qualités suivantes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Je suis étudiant
+- Je suis loyal
 
-What else do you need?
+Qu'as-tu besion d'autre ?
 
-### My story
+### Mon histoire
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Pour être honête, je un problème pour me souvenir de ça, donc pourquoi tu ne la regarderais pas [my movie](https://www.youtube.com/watch?v=dQw4w9WgXcQ) cela répondra à **toutes** tes questions.
