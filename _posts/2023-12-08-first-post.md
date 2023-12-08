@@ -42,15 +42,6 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-Et voici le même code mais avec de joli couleur:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
 Et ceci est encore le même code mais avec le numéro des lignes:
 
 {% highlight javascript linenos %}
