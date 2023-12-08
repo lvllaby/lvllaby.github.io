@@ -1,3 +1,2 @@
-# Beautiful Jekyll
+# My website
 
-> By [Dean Attali](https://deanattali.com)
