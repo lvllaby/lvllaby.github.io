@@ -2,7 +2,7 @@
 layout: post
 title: Premier post
 subtitle: Il y beaucoup à voir!
-gh-repo: daattali/beautiful-jekyll
+gh-repo: lvllaby/lvllaby.github.io
 gh-badge: [star, fork, follow]
 tags: [tuto]
 comments: true
